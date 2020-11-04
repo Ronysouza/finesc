@@ -1,0 +1,21 @@
+.clientes_img{
+
+   margin-bottom: 20px;
+    margin-top:  20px;
+
+
+}
+.clientes_img h3{
+	font-weight: 400;
+}
+
+.clientes_img_hover{
+	transition: 0.5s;
+}
+.clientes_img_hover:hover{
+
+    transition: 0.5s;
+    box-shadow: 0 1px 25px 0px #8B0000;
+        transform: scale(1.05);
+
+}

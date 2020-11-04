@@ -1,0 +1,56 @@
+.menu_top{
+	background-color: #000;
+	width: 200px;
+	text-align: center;
+	padding: 10px;
+	position: absolute;
+	z-index: 1;
+	border-radius: 5px;
+	display: none;
+
+
+}
+.menu_top a{
+	margin-top: 10px;
+}
+
+.menu_a_d{
+	background-color: #ddd;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-radius: 4px;
+
+}
+
+.menu_icone{
+	display: none;
+}
+
+
+
+
+
+
+@media  (max-width: 700px){
+
+.menu_a{
+ display: none;
+
+}
+
+.menu_icone{
+	display: block;
+     position: absolute;
+     right: 5px;
+     top:3%;
+
+}
+
+
+
+
+
+
+}

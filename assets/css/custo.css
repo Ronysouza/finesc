@@ -1,0 +1,17 @@
+.custo_edt h4{
+	font-weight: 400;
+	margin-top: 30px;
+ 
+
+}
+
+.custo_edt p{
+	text-align: justify;
+	color: #999;
+}
+
+.custo_edt div{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}

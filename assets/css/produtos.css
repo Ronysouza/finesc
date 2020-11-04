@@ -1,0 +1,14 @@
+ .img_hov img{
+ 	transition: 3s;
+ 	cursor: pointer;
+ }
+
+ .img_hov img:hover{
+   transition: 1s;
+    
+        transform: scale(1.10);
+ }
+
+ .img_hov{
+ 	text-align: center;
+ }
